@@ -15,7 +15,8 @@ sudo apt-get install -y curl \
 						python3-venv \
 						python3-dbus \
 						dbus \
-						neofetch
+						neofetch \
+						libfuse2
 sudo pip3 install autokey
 						
 git clone https://github.com/nagygergo/jetbrains-toolbox-install.git
